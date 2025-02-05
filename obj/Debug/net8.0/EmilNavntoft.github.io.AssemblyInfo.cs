@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmilNavntoft.github.io")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5c020dbfa07d52e39c50ec82accef3884669e58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50f94964aed2d395be67352e8fa25a68882f8d70")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmilNavntoft.github.io")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmilNavntoft.github.io")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
