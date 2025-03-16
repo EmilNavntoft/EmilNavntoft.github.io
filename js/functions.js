@@ -1,19 +1,22 @@
-﻿function saveAsFile(filename, bytesBase64) {
+﻿import Module from "./coolprop.js"
+
+export function PropsSI(prop0, prop1, val1, prop2, val2, fluid) {
+    console.log(prop0);
+    console.log(prop1);
+    console.log(prop2);
+    console.log(val1);
+    console.log(val2);
+    console.log(fluid);
+    const value = Module.PropsSI(prop0, prop1, val1, prop2, val2, fluid);
+    console.log(value);
+    return value;
+}
+
+function saveAsFile(filename, bytesBase64) {
     var link = document.createElement('a');
     link.download = filename;
     link.href = "data:application/octet-stream;base64," + bytesBase64;
     document.body.appendChild(link); // Needed for Firefox
     link.click();
     document.body.removeChild(link);
-}
-
-function updatePH() {
-    const T = Module.PropsSI("T", "P", 100000, "T", 300, "R134a");
-    const rho = Module.PropsSI("D", "P", 100000, "T", 300, "R134a");
-    const p = Module.PropsSI("P", "P", 100000, "T", 300, "R134a");
-    const s = Module.PropsSI("S", "P", 100000, "T", 300, "R134a");
-    const h = Module.PropsSI("H", "P", 100000, "T", 300, "R134a");
-    const cp = Module.PropsSI("C", "P", 100000, "T", 300, "R134a");
-
-    console.log(h);
 }
