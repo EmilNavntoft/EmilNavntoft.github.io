@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CycleCalculatorWeb",
   "resources": {
-    "hash": "sha256-x8/xfFFsxbOtYTrxfqYOgzxWfwVo0K1wu65N1MngsXs=",
+    "hash": "sha256-cFKWfFml0cH3OIwx5Iorc9ykJ6eXGSRh7IKPDxH0C4A=",
     "jsModuleNative": {
       "dotnet.native.8.0.12.3h9orz0dp0.js": "sha256-SIPRQYXWi5Q7KEkwd5L8Qp3g5VOsaOid6cNmCDPNQwg="
     },
@@ -19,7 +19,7 @@
     "assembly": {
       "Accord.wasm": "sha256-KYp7hAf92VlK+DW7xEgtu30LGuheWt5+OcRHf9mcIp8=",
       "C.Numerics.wasm": "sha256-Mz5XtGKLl8ZEdbDqVNVSNzjNiCUQWQgyMxLNt65n4DU=",
-      "CycleCalculatorWeb.wasm": "sha256-sR/6+gWdhQgjTN2qp8lHE0swXzbZZm0lJcJfRhBVJxU=",
+      "CycleCalculatorWeb.wasm": "sha256-lbUUZe09V7B7OLG3iy6zaOT4t4thPBUNIQDLPIBxrPI=",
       "EngineeringUnits.wasm": "sha256-DXq8BTSxaAq8gdvr1lY4SP+awStqJVHLsId4mGcbqTQ=",
       "Fractions.wasm": "sha256-WxyOCMNUmCy+g22+dEEaqmUMX1jC5RAh/Xq/+fYPiYk=",
       "FSharp.Core.wasm": "sha256-y5r2TIUzXnpeSmOVYp8WpA/9KvRhdfS0rbwaMmvSlMM=",
