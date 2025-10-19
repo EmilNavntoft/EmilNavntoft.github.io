@@ -1,11 +1,11 @@
 {
   "mainAssemblyName": "CycleCalculatorWeb",
   "resources": {
-    "hash": "sha256-neMDxEfgji3Vv8hPxbys3/7QLflp22SsEKkcrlink7g=",
+    "hash": "sha256-pndLvLdjQ7MoQWfi3cuTHGVhK66hDmpgd8ArDaMfzQA=",
     "fingerprinting": {
       "Accord.l9d811h9ho.wasm": "Accord.wasm",
       "C.Numerics.bakma1orig.wasm": "C.Numerics.wasm",
-      "CycleCalculatorWeb.a9gmp61bp5.wasm": "CycleCalculatorWeb.wasm",
+      "CycleCalculatorWeb.lp9r0ib2xh.wasm": "CycleCalculatorWeb.wasm",
       "EngineeringUnits.5nr9noiavp.wasm": "EngineeringUnits.wasm",
       "Fractions.9rt40hhmct.wasm": "Fractions.wasm",
       "FSharp.Core.3mb4zdjgqb.wasm": "FSharp.Core.wasm",
@@ -352,7 +352,7 @@
     "assembly": {
       "Accord.l9d811h9ho.wasm": "sha256-KYp7hAf92VlK+DW7xEgtu30LGuheWt5+OcRHf9mcIp8=",
       "C.Numerics.bakma1orig.wasm": "sha256-Mz5XtGKLl8ZEdbDqVNVSNzjNiCUQWQgyMxLNt65n4DU=",
-      "CycleCalculatorWeb.a9gmp61bp5.wasm": "sha256-MqMmiVBZLj37yviiuxpUgN1rNvOygx3bChWbyYpVLNk=",
+      "CycleCalculatorWeb.lp9r0ib2xh.wasm": "sha256-6SFa60uDZEMLqCj1E8sXR3PdYv9Uj4iT0uJqDGas1zw=",
       "EngineeringUnits.5nr9noiavp.wasm": "sha256-MWuE6cxUcTtiBS1dh/kTGjrepJGGjk/lkpvLprcIQ8U=",
       "Fractions.9rt40hhmct.wasm": "sha256-WxyOCMNUmCy+g22+dEEaqmUMX1jC5RAh/Xq/+fYPiYk=",
       "FSharp.Core.3mb4zdjgqb.wasm": "sha256-y5r2TIUzXnpeSmOVYp8WpA/9KvRhdfS0rbwaMmvSlMM=",
